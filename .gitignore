@@ -1,0 +1,6 @@
+# Workspace
+.idea
+.vscode
+
+# General project files
+.gitignore
